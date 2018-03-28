@@ -1,0 +1,31 @@
+#include <iostream>
+
+using namespace std;
+
+int
+main ()
+     char[str] input = yes=x, no=y, undecided=z;
+     int sum = 0;
+     int counter = 1; 
+while (input <= 100)
+  {
+    char[str] yes = x, no = y, undecided = z;
+
+    cout <<
+      "Please enter your opinion on whether the elections should be held on October 26 2017";
+    cin >> input;
+
+
+    if (100 < x + y + z)
+      cout << "Next individual, please enter your opinion";
+    else
+      cout >> "Thank you for your valued opinion. It will be considered!";
+
+    sum += input;
+    counter++;
+
+
+    cout << "Number of yes is ";
+    cout << "Number of no is ";
+    cout << "Number of undecided is ";
+  }
